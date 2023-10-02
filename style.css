@@ -1,0 +1,24 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css");
+
+body {
+  margin: 1rem 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: rgb(89, 136, 50);
+  
+}
+footer {
+  background-color: #333; /* Color de fondo del footer */
+  color: #fff; /* Color del texto en el footer */
+  text-align: center;
+  padding: 10px 0; /* Espaciado interior superior e inferior */
+}
+
+/* Estilos para el texto del footer */
+footer p {
+  margin: 0; /* Elimina el margen predeterminado */
+  font-size: 14px;
+}
+.feedback {
+  font-size: 0.875em;
+}
